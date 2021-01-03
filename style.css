@@ -1,13 +1,13 @@
 *{
     
     text-transform: capitalize;
+    width: 80%;
 }
 
 body{
 border:5px solid red;
 color: purple;
 background-color: royalblue;
-margin: 80%;
 
 }
 
