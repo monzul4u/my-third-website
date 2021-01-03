@@ -1,9 +1,10 @@
 *{
-    border:5px solid red;
+    
     text-transform: capitalize;
 }
 
 body{
+border:5px solid red;
 color: purple;
 background-color: royalblue;
 margin-left: 100px;
